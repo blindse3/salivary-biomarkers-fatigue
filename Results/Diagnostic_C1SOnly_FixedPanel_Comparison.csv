@@ -1,0 +1,3 @@
+Panel,Classifier,Accuracy,Sensitivity,Specificity,F1,MCC,AUC
+C1S only,SVM-RBF,0.7,0.7,0.7,0.7,0.4,0.58
+C1S only,Ridge Logistic,0.8,0.8,0.8,0.8,0.6,0.75

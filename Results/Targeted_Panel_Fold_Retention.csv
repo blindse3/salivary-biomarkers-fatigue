@@ -1,0 +1,6 @@
+Feature,Folds_Retained,Pct_Folds
+IgA,10,1
+UA,10,1
+AA,5,0.5
+Testosterone,2,0.2
+IL6,1,0.1

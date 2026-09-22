@@ -1,0 +1,5 @@
+Feature,Folds_Retained,Pct_Folds,Gene Symbol,Description
+NP_958850.1,10,1,C1S,complement C1s subcomponent isoform 1 preproprotein [Homo sapiens]
+XP_006722696.1,1,0.1,NA,N-acetylmuramoyl-L-alanine amidase isoform X1 [Homo sapiens]
+XP_016873515.1,1,0.1,NA,26S proteasome regulatory subunit 6A isoform X1 [Homo sapiens]
+NP_000493.1,1,0.1,EPX,eosinophil peroxidase preproprotein [Homo sapiens]

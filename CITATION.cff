@@ -1,0 +1,82 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code or data, please cite both the associated
+  journal article (see preferred-citation below) and this repository.
+type: software
+title: >-
+  Salivary Biomarkers for Classifying Acute Physical Fatigue: A
+  Comparative, Exploratory Study — Analysis Code and Data
+authors:
+  - given-names: Bryndan
+    family-names: Lindsey
+    affiliation: Johns Hopkins Applied Physics Laboratory
+    orcid: 'https://orcid.org/0000-0002-6429-8796'
+  - given-names: Kenneth
+    family-names: Bowden
+    affiliation: Johns Hopkins Applied Physics Laboratory
+  - given-names: Yosef
+    family-names: Shaul
+    affiliation: George Mason University
+  - given-names: Emanuel
+    family-names: Petricoin
+    affiliation: George Mason University
+  - given-names: Shane V.
+    family-names: Caswell
+    affiliation: George Mason University
+  - given-names: Rayan
+    family-names: Alhammad
+    affiliation: >-
+      George Mason University; King Saud bin Abdulaziz University
+      for Health Sciences
+  - given-names: Anissa N.
+    family-names: Elayadi
+    affiliation: Johns Hopkins Applied Physics Laboratory
+  - given-names: Brandon M.
+    family-names: Roberts
+    affiliation: Walter Reed Army Institute of Research
+  - given-names: Joel R.
+    family-names: Martin
+    affiliation: George Mason University
+    email: jmarti38@gmu.edu
+repository-code: 'https://github.com/blindse3/salivary-biomarkers-fatigue'
+license: MIT
+version: 1.0.0
+date-released: '2026-09-22'  # TODO: update to actual publish/release date
+keywords:
+  - salivary biomarkers
+  - proteomics
+  - physical fatigue
+  - machine learning
+  - nested cross-validation
+  - tactical athletes
+preferred-citation:
+  type: article
+  title: >-
+    Salivary Biomarkers for Classifying Acute Physical Fatigue: A
+    Comparative, Exploratory Study
+  authors:
+    - given-names: Bryndan
+      family-names: Lindsey
+    - given-names: Kenneth
+      family-names: Bowden
+    - given-names: Yosef
+      family-names: Shaul
+    - given-names: Emanuel
+      family-names: Petricoin
+    - given-names: Shane V.
+      family-names: Caswell
+    - given-names: Rayan
+      family-names: Alhammad
+    - given-names: Anissa N.
+      family-names: Elayadi
+    - given-names: Brandon M.
+      family-names: Roberts
+    - given-names: Joel R.
+      family-names: Martin
+  journal: Translational Journal of the American College of Sports Medicine
+  year: 2026  # TODO: update to actual publication year
+  volume: ''  # TODO: fill in once published
+  issue: ''   # TODO: fill in once published
+  start: ''   # TODO: start page, once published
+  end: ''     # TODO: end page, once published
+  doi: ''     # TODO: fill in once published

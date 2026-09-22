@@ -1,0 +1,14 @@
+Feature,Folds_Retained,Pct_Folds,Gene Symbol,Description
+TARGETED_UA,10,1,NA,NA
+NP_001091046.1,10,1,ANG,angiogenin precursor [Homo sapiens]
+NP_958850.1,10,1,C1S,complement C1s subcomponent isoform 1 preproprotein [Homo sapiens]
+TARGETED_IgA,10,1,NA,NA
+NP_005629.1,2,0.2,VAMP7,vesicle-associated membrane protein 7 isoform 1 [Homo sapiens]
+NP_002829.3,1,0.1,PTPRC,receptor-type tyrosine-protein phosphatase C isoform 1 precursor [Homo sapiens]
+NP_000168.1,1,0.1,GSN,gelsolin isoform a precursor [Homo sapiens]
+NP_116139.1,1,0.1,ABHD14B,protein ABHD14B isoform 1 [Homo sapiens]
+NP_775109.2,1,0.1,KRT6C,"keratin, type II cytoskeletal 6C [Homo sapiens]"
+NP_001139280.1,1,0.1,NA,integrin alpha-M isoform 1 precursor [Homo sapiens]
+NP_000241.1,1,0.1,MPO,myeloperoxidase precursor [Homo sapiens]
+TARGETED_IL6,1,0.1,NA,NA
+NP_000497.1,1,0.1,F2,prothrombin isoform 1 preproprotein [Homo sapiens]
