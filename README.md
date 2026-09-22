@@ -4,8 +4,9 @@ Reproducible analysis code and data accompanying:
 
 > Lindsey B, Bowden K, Shaul Y, Petricoin E, Caswell SV, Alhammad R, Elayadi AN,
 > Roberts BM, Martin JR. **Salivary Biomarkers for Classifying Acute Physical
-> Fatigue: A Comparative, Exploratory Study.** *Translational Journal of the
-> American College of Sports Medicine* (in press).
+> Fatigue: A Comparative, Exploratory Study.** *bioRxiv* preprint (2025).
+> https://doi.org/10.1101/2025.06.04.657971. Under revision at *Translational
+> Journal of the American College of Sports Medicine*.
 
 See [CITATION.cff](CITATION.cff) for full citation details.
 
@@ -32,9 +33,6 @@ out cross-validation (LOSOCV).
 ├── DATA_LICENSE                                 data license (CC BY 4.0)
 └── CITATION.cff
 ```
-
-Untargeted proteomics data are also deposited on the Open Science Framework:
-[DOI: 10.17605/OSF.IO/2WM4P](https://doi.org/10.17605/OSF.IO/2WM4P).
 
 `Biomarker_Metadata_Saliva.csv` is a filtered extract of the full study
 database, containing only the participant ID, timepoint, targeted salivary
@@ -110,8 +108,10 @@ any value as reported (rounded) in the manuscript.
 
 ## Data Availability Statement
 
-[TODO: insert final Data Availability Statement language as published in the
-manuscript, and cross-reference this repository's URL once created.]
+The data and analysis code that support the findings of this study are
+openly available. The complete analysis pipeline, targeted biomarker and
+proteomic datasets, and all reported results are publicly available at
+https://github.com/blindse3/salivary-biomarkers-fatigue.
 
 ## License
 

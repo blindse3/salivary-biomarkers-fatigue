@@ -73,10 +73,13 @@ preferred-citation:
       family-names: Roberts
     - given-names: Joel R.
       family-names: Martin
-  journal: Translational Journal of the American College of Sports Medicine
-  year: 2026  # TODO: update to actual publication year
-  volume: ''  # TODO: fill in once published
-  issue: ''   # TODO: fill in once published
-  start: ''   # TODO: start page, once published
-  end: ''     # TODO: end page, once published
-  doi: ''     # TODO: fill in once published
+  repository: 'https://www.biorxiv.org'
+  year: 2025
+  doi: 10.1101/2025.06.04.657971
+  url: 'https://doi.org/10.1101/2025.06.04.657971'
+  notes: >-
+    Preprint (bioRxiv). This citation will be updated to the
+    peer-reviewed Translational Journal of the American College of
+    Sports Medicine article once published following revision.
+    # TODO: replace with journal, volume, issue, start, end, and doi
+    # once the peer-reviewed article is published.
