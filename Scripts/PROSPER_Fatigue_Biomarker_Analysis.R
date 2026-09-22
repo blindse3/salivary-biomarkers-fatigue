@@ -1560,7 +1560,7 @@ p_panel_biomarkers <- ggplot(df_panel_biomarkers, aes(x = Measure, y = Value)) +
                "IgA" = str_wrap("Immunoglobulin A (IgA)", width = 30),
                "UA"  = str_wrap("Uric Acid (UA)", width = 30),
                "ANG" = str_wrap("Angiogenin (ANG)", width = 30),
-               "C1S" = str_wrap("Complement C1s subcomponent isoform 1 preproprotein (C1S)", width = 30)
+               "C1S" = str_wrap("Complement C1s subcomponent preproprotein (C1S)", width = 30)
              ))) +
 
   scale_x_discrete(labels = x_labels) +
